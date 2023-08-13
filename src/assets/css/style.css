@@ -1,0 +1,10 @@
+.mainSlider .carousel-caption{left: auto; top: 25%; width: 360px; text-align: left;z-index: 99; color: #000000;}
+.mainSlider .carousel-control-next-icon, .mainSlider .carousel-control-prev-icon{filter: brightness(0.3);}
+.mainSlider h1{color: #0d6efd; font-size: 2rem}
+.sections{margin: 3rem 0}
+.sections h2{color: #0d6efd; font-size: 2rem}
+footer{padding: 2.5rem 0}
+footer a img{margin-right: 0.4rem; opacity: 0.8;}
+footer ul{padding: 0}
+footer ul li{display: block;}
+footer ul li a{display: block; color: #eee; text-decoration: none;}
